@@ -1,0 +1,65 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  background-color: #eff2f5 !important;
+}
+
+.background-grey {
+  background-color: #eff2f5 !important;
+}
+
+.border-none {
+  border: none !important;
+}
+.min-height-80{
+  min-height: 80px;
+}
+.height-60{
+  max-height: 60px;
+  height: 60px;
+}
+.min-height-420{
+  min-height: 420px;
+}
+.border-right{
+  margin-right: 0!important;
+  border-right: solid #eff2f5 ;
+}
+.custom-border{
+  border: solid #eff2f5 ;
+  border-radius: 3px;
+}
+.blue-color{
+  color: #037bf2;
+}
+.red-color{
+  color: crimson;
+}
+.orange-color{
+  color: #ffc720;
+}
+.a-without-line{
+  font-size: 85% !important;
+  text-decoration: none!important;
+}
+.a-without-line-selected{
+  font-size: 85% !important;
+  text-decoration: none!important;
+  color: #eff2f5;
+}
+.text-right {
+  text-align: right !important;
+}
+.ml-4 {
+  margin-left: 1rem !important;
+}
+.mr-4 {
+  margin-right: 1rem !important;
+}
+.scroll-list{
+  max-height: 250px;
+  overflow-y: scroll;
+}
+
+
+
+

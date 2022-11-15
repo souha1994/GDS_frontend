@@ -1,0 +1,36 @@
+.mainContainer{
+  margin: 50px;
+}
+.min-height-600{
+  height: 600px;
+}
+.min-width-270{
+  width: 270px;
+}
+.min-width-750{
+  width: 100%;
+}
+.no-flex-wrap{
+  flex-wrap: inherit !important;
+}
+.mr-2{
+  margin-right: 2px!important;
+}
+pr-0{
+  padding-right: 0px!important;
+}
+pl-0{
+  padding-left: 0px!important;
+}
+
+span {
+  position: relative;
+  font-family: "Avenir Next", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-style: italic;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+
